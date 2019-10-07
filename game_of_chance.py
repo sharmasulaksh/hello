@@ -30,7 +30,7 @@ def rand_guess():
   
         # Taking a input from the user 
         guess = int(input("Pick your number to "
-                      "enter the lucky draw\n")) 
+                      "enter the lucky draw:  \n")) 
   
         # checking whether user's guess 
         # matches the generated win-condition 
