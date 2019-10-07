@@ -11,7 +11,7 @@ def generator():
 # true or false depending whether the 
 # user wins the lucky draw! 
 def rand_guess(): 
-  
+    # calls the function
     # calls generator() which returns a 
     # random integer between 1 and 10 
     random_number = generator() 
