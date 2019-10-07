@@ -63,7 +63,7 @@ def rand_guess():
 # Driver code 
 if __name__ == '__main__': 
     if rand_guess() is True: 
-        print("Congrats!! You Win.") 
+        print("Congrats!! You Win!") 
     else : 
         print("Sorry, You Lost!") 
 #done!!
